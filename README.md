@@ -5,6 +5,7 @@ A simple and interactive **Currency Converter** web app that lets users convert 
 ## 🌐 Live Demo
 
 👉 [Live Demo](#) —  https://rawatjidelhiwale.github.io/currency-converter/
+⚠️ This site might trigger a false-positive warning from GitHub due to external API calls for exchange rates and flags. All scripts are client-side and safe.
 
 ## ✨ Features
 
