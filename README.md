@@ -4,7 +4,7 @@ A simple and interactive **Currency Converter** web app that lets users convert 
 
 ## 🌐 Live Demo
 
-👉 [Live Demo](#) — 
+👉 [Live Demo](#) —  https://rawatjidelhiwale.github.io/currency-converter/
 
 ## ✨ Features
 
